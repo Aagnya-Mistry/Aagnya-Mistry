@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aagnya Mistry</h1>
 <h3 align="center">I'm a passionate developer exploring the intersection of Generative AI, Machine Learning, and real-world problem solving through impactful tech projects. I love building full-stack apps, deploying ML models, and designing intelligent systems that combine vision, language, and reasoning.</h3>
 
-- 👨‍💻 All of my projects are available at [https://aagnya-mistry.vercel.app/](https://aagnya-mistry.vercel.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://aagnya.vercel.app/)
 
 - 📫 How to reach me **aagnya.mistry@gmail.com**
 
